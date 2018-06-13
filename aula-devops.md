@@ -16,12 +16,12 @@ Um servidor é um programa que fornece funcionalidades para outros programas ou 
 Um servidor WEB é um programa de computador responsável por aceitar pedidos HTTP de clientes, geralmente os navegadores, e servi-los com respostas HTTP, incluindo opcionalmente dados, que geralmente são páginas web, tais como documentos HTML com objetos embutidos (imagens, etc.).
 
 Artigos para auxiliar a explicação do tema: <br/>
-http://www.tecnologiainterativa.com.br/especiais-tecnologia/a2015/conceito-infraestrutura-de-t-i/
-http://historiadocomputadorr.blogspot.com.br/2012/11/web-container-vs-servidor-web.html
-http://ritacris.com/so10_2015/so10_mod3.html
-https://w3techs.com/technologies/overview/web_server/all
-http://news.netcraft.com/archives/2016/06/22/june-2016-web-server-survey.html
-https://www.stern.com.br/escolhendo-o-banco-de-dados-ideal/ 
-http://db-engines.com/en/ranking
-http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-risk-serv.html 
-http://marcosalmeidaoliveira.blogspot.com/2010/12/web-container-e-servidor-de-aplicacao_13.html
+http://www.tecnologiainterativa.com.br/especiais-tecnologia/a2015/conceito-infraestrutura-de-t-i/ <br/>
+http://historiadocomputadorr.blogspot.com.br/2012/11/web-container-vs-servidor-web.html <br/>
+http://ritacris.com/so10_2015/so10_mod3.html <br/>
+https://w3techs.com/technologies/overview/web_server/all <br/>
+http://news.netcraft.com/archives/2016/06/22/june-2016-web-server-survey.html <br/>
+https://www.stern.com.br/escolhendo-o-banco-de-dados-ideal/  <br/>
+http://db-engines.com/en/ranking <br/>
+http://web.mit.edu/rhel-doc/4/RH-DOCS/rhel-sg-pt_br-4/s1-risk-serv.html <br/>
+http://marcosalmeidaoliveira.blogspot.com/2010/12/web-container-e-servidor-de-aplicacao_13.html <br/>
